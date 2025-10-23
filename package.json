@@ -1,0 +1,13 @@
+{
+  "name": "Артем",
+  "version": "1.0.0",
+  "main": "Im 14 years old",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
